@@ -1,0 +1,14 @@
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\bin\Release\YasuoSharpV2.exe.config
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\obj\Debug\YasuoSharpV2.csprojResolveAssemblyReference.cache
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\obj\Debug\YasuoSharpV2.Properties.Resources.resources
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\obj\Debug\YasuoSharpV2.csproj.GenerateResource.Cache
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\bin\Release\YasuoSharpV2.exe
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\bin\Release\YasuoSharpV2.pdb
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\bin\Release\clipper_library.dll
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\bin\Release\LeagueSharp.Common.dll
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\bin\Release\LeagueSharp.dll
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\bin\Release\SharpDX.dll
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\bin\Release\LeagueSharp.xml
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\obj\Debug\YasuoSharpV2.exe
+C:\Users\Xen\Desktop\LSharpWIP-master\YasuoSharpV2\obj\Debug\YasuoSharpV2.pdb

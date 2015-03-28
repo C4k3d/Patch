@@ -14,3 +14,6 @@ C:\Users\Xen\Documents\Patch\ezEvade\obj\Debug\ezEvade.exe.manifest
 C:\Users\Xen\Documents\Patch\ezEvade\obj\Debug\ezEvade.application
 C:\Users\Xen\Documents\Patch\ezEvade\obj\Debug\ezEvade.exe
 C:\Users\Xen\Documents\Patch\ezEvade\obj\Debug\ezEvade.pdb
+C:\Users\Xen\Documents\GitHub\Patch\ezEvade\bin\Release\ezEvade.exe.config
+C:\Users\Xen\Documents\GitHub\Patch\ezEvade\obj\Debug\ezEvade.exe
+C:\Users\Xen\Documents\GitHub\Patch\ezEvade\obj\Debug\ezEvade.pdb
