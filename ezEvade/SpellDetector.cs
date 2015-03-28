@@ -65,8 +65,7 @@ namespace ezEvade
             SpellData spellData;
 
             if (missile.SpellCaster != null && missile.SpellCaster.Team != myHero.Team &&
-                missile.SData.Name != null && onMissileSpells.TryGetValue(missile.SData.Name, out spellData)
-                && missile.StartPosition != null && missile.EndPosition != null)
+                missile.SData.Name != null && onMissileSpells.TryGetValue(missile.SData.Name, out spellData))
             {
                 if (missile.StartPosition.Distance(myHero.Position) < spellData.range + 1000)
                 {
