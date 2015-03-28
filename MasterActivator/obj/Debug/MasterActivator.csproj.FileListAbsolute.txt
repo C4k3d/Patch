@@ -1,0 +1,12 @@
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\bin\Debug\MasterActivator.exe.config
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\obj\Debug\MasterActivator.csprojResolveAssemblyReference.cache
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\bin\Debug\MasterActivator.exe
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\bin\Debug\MasterActivator.pdb
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\bin\Debug\clipper_library.dll
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\bin\Debug\LeagueSharp.dll
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\bin\Debug\SharpDX.dll
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\bin\Debug\LeagueSharp.xml
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\obj\Debug\MasterActivator.exe
+C:\Users\Xen\Documents\GitHub\Patch\MasterActivator\obj\Debug\MasterActivator.pdb
