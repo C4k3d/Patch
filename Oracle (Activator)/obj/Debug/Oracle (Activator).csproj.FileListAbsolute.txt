@@ -1,0 +1,12 @@
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\bin\Release\Oracle (Activator).exe.config
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\obj\Debug\Oracle (Activator).csprojResolveAssemblyReference.cache
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\bin\Release\Oracle (Activator).exe
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\bin\Release\Oracle (Activator).pdb
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\bin\Release\clipper_library.dll
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\bin\Release\LeagueSharp.Common.dll
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\bin\Release\LeagueSharp.dll
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\bin\Release\SharpDX.dll
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\bin\Release\LeagueSharp.xml
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\obj\Debug\Oracle (Activator).exe
+C:\Users\Xen\Documents\Patch\Oracle (Activator)\obj\Debug\Oracle (Activator).pdb
